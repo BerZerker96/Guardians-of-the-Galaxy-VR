@@ -76,7 +76,6 @@ Source and build notes are in the `source` folder (`scripts/build_mingw.sh`); hi
 | Who | What |
 |---|---|
 | **mark-mon** | VR framework this mod is built on: XrBridge OpenXR host, vrkit VR panel, proxy loader |
-| **DXMDVR** | The Deus Ex: Mankind Divided VR mod (same Dawn engine): render-camera hook, frame pacing, foveation and UI ideas |
 | **Otis_Inf** | IGCS GotG Camera Tools: camera chain, game clock, cutscene black bars and focus-pause sites |
 | **GotG OpenTrack head-tracking mod** | Notes on the game's camera |
 | **praydog / UEVR** | The synchronized-sequential idea behind Synchronized stereo |
