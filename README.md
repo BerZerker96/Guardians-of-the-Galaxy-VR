@@ -7,7 +7,7 @@
 
 **Play Marvel's Guardians of the Galaxy (PC, Steam) in VR**
 
-![version](https://img.shields.io/badge/version-0.6.19--alpha-8e44ad) ![game](https://img.shields.io/badge/game-Guardians%20of%20the%20Galaxy-222) ![xr](https://img.shields.io/badge/OpenXR-SteamVR%20%7C%20Pimax%20%7C%20Quest%20%7C%20VDXR%20%7C%20WMR-555)
+ ![game](https://img.shields.io/badge/game-Guardians%20of%20the%20Galaxy-222) ![xr](https://img.shields.io/badge/OpenXR-SteamVR%20%7C%20Pimax%20%7C%20Quest%20%7C%20VDXR%20%7C%20WMR-555)
 
 </div>
 
