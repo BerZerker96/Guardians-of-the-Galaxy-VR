@@ -19,8 +19,8 @@
 
 ## 📦 Install
 
-1. Copy `dxgi.dll` and `Start_GOTG_VR.bat` from the `mod` folder into the game folder with `GOTG.exe`.
-   (`alt\winmm.dll` / `alt\GOTGVR.asi` are the same mod for other loaders - use only one.)
+1. Copy `dxgi.dll` and `Start_GOTG_VR.bat` and config from the `mod` folder into the game folder with `GOTG.exe`.
+
 2. Start your VR software, then start the game with `Start_GOTG_VR.bat`. VR starts by itself.
 
 Works with the original exe and the FuckTAA-patched exe. To uninstall, delete `dxgi.dll`, the `GOTGVR` folder and `gotgvr_config.txt`.
